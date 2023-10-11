@@ -1,0 +1,9 @@
+const data = require('../db/data');
+
+const controller = {
+    findAllQA: (req, res) => {
+        res.json({data});
+    }
+}
+
+module.exports = controller;
