@@ -1,11 +1,13 @@
 const data = [
     {
         id: 0,
+        value: "test",
         question: "Quelle est la femelle du hamster ?",
         answer: "L'Amsterdam"
     },
     {
         id: 1,
+        value: "?",
         question: "Que dit un oignon quand il se cogne ?",
         answer: "Aïe"
     },
