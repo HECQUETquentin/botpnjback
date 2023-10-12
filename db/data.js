@@ -1,15 +1,9 @@
 const data = [
     {
-        id: 0,
-        value: "test",
-        question: "Quelle est la femelle du hamster ?",
-        answer: "L'Amsterdam"
-    },
-    {
         id: 1,
-        value: "?",
-        question: "Que dit un oignon quand il se cogne ?",
-        answer: "Aïe"
+        value: "Week-End",
+        question: "Bonjour Henry, comment s'est passé ton week-end ?",
+        answer: "Bonjour, je suis allé au parc d'attraction avec ma femme et mes enfants. On s'est bien amusé même s'il y a eu quelques problèmes de parking."
     },
     {
         id: 2,
